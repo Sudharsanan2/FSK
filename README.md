@@ -148,3 +148,6 @@ The demodulated output correctly reproduced the original digital signal, validat
 
 # Hardware experiment output waveform:
 
+![WhatsApp Image 2025-04-23 at 17 50 28_9520b3fe](https://github.com/user-attachments/assets/88460b1a-9927-4cdc-a410-1d7d01c54be8)
+
+
